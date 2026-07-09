@@ -1,8 +1,12 @@
 export const coursesSection = {
-    content: `<p className="deskripsi">You Will Need This</p>
-                        <h2>Online Courses</h2>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed deserunt voluptatibus possimus blanditiis reiciendis. Qui, facilis! Delectus exercitationem dolores sapiente?</p>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed deserunt voluptatibus possimus blanditiis reiciendis. Qui, facilis! Delectus exercitationem dolores sapiente?</p>
-                        <p><a href="" className="tbl-biru">Pelajari Lebih Lanjut</a></p>`,
-    image: 'https://img.freepik.com/free-vector/online-learning-isometric-concept_1284-17947.jpg?size=626&ext=jpg&ga=GA1.2.1769275626.1605867161'
+    content: `<p className="deskripsi">Materi Inti</p>
+                        <h2>Topik yang Dipelajari</h2>
+                        <ul>
+                            <li>Pengantar model keputusan dan unsur-unsurnya</li>
+                            <li>Model optimasi linear dan pemrograman matematis</li>
+                            <li>Analisis sensitivitas dan simulasi skenario</li>
+                            <li>Penerapan model untuk penjadwalan, distribusi, dan perencanaan sumber daya</li>
+                        </ul>
+                        <p><a href="#contact" className="tbl-biru">Lihat Informasi Kelas</a></p>`,
+    image: 'https://images.unsplash.com/photo-1516321497487-e288fb19713f?auto=format&fit=crop&w=900&q=80'
 }

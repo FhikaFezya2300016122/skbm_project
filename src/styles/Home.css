@@ -36,6 +36,8 @@ section {
   margin: auto;
   display: flex;
   margin-bottom: 50px;
+  align-items: center;
+  gap: 30px;
 }
 
 p {
@@ -55,6 +57,16 @@ p {
   color: #364f6b;
 }
 
+.kolom ul {
+  padding-left: 20px;
+  margin: 10px 0 20px;
+}
+
+.kolom li {
+  margin-bottom: 8px;
+  color: #4f4f4f;
+}
+
 h2 {
   font-family: "comic sans ms";
   font-weight: 800;
@@ -63,6 +75,10 @@ h2 {
   color: #364f6b;
   width: 100%;
   line-height: 50px;
+}
+
+section img {
+  border-radius: 20px;
 }
 
 .tengah {

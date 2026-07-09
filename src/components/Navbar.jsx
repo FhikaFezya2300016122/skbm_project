@@ -4,15 +4,15 @@ function Navbar() {
     return (
         <nav>
             <div className="wrapper">
-                <div className="logo"><a href=''>RumahRafif.</a></div>
+                <div className="logo"><a href='#home'>SKBM</a></div>
                 <div className="menu">
                     <ul>
                         <li><a href="#home">Home</a></li>
-                        <li><a href="#courses">Courses</a></li>
-                        <li><a href="#tutors">Tutors</a></li>
-                        <li><a href="#partners">Partners</a></li>
-                        <li><a href="#contact">Contact</a></li>
-                        <li><a href="" className="tbl-biru">Sign Up</a></li>
+                        <li><a href="#materi">Materi</a></li>
+                        <li><a href="#tutors">Konsep</a></li>
+                        <li><a href="#partners">Tools</a></li>
+                        <li><a href="#contact">Kontak</a></li>
+                        <li><a href="#contact" className="tbl-biru">Daftar Kelas</a></li>
                     </ul>
                 </div>
             </div>

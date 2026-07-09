@@ -1,19 +1,20 @@
 export const contactSection = [
     {
-        content: `<h3>RumahRafif.</h3>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint, culpa!</p>`
+        content: `<h3>Informasi Kuliah</h3>
+                        <p>Ruang Lab Komputasi, Gedung Informatika</p>
+                        <p>Semester Genap</p>`
     },
     {
-        content: `<h3>About</h3>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint, culpa!</p>`
+        content: `<h3>Tujuan Mata Kuliah</h3>
+                        <p>Mahasiswa mampu membangun model keputusan untuk menyelesaikan masalah nyata secara sistematis.</p>`
     },
     {
-        content: `<h3>Contact</h3>
-                        <p>Jl. Laksda Adisucipto Sleman Yogyakarta</p>
-                        <p>Kode Pos: 57365</p>`
+        content: `<h3>Kontak</h3>
+                        <p>Email: keputusan.model@univ.ac.id</p>
+                        <p>Telepon: 0812-3456-7890</p>`
     },
     {
-        content: `<h3>Social</h3>
-                        <p><b>YouTube: </b>Programming di RumahRafif</p>`
+        content: `<h3>Nilai Utama</h3>
+                        <p>Logika, analisis data, dan keputusan yang terukur.</p>`
     },
 ]
